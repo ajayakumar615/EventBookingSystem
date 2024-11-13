@@ -1,0 +1,94 @@
+{
+  "events": [
+    {
+      "id": 1,
+      "title": "React Conference 2024",
+      "description": "A conference about React and web development.",
+      "category": "Conference",
+      "date": "10/05/2024",
+      "availableSeats": 100,
+      "price": 199
+    },
+    {
+      "id": 2,
+      "title": "Music Concert",
+      "description": "An amazing live music performance.",
+      "category": "Concert",
+      "date": "15/06/2024",
+      "availableSeats": 50,
+      "price": 50
+    },
+    {
+      "id": 3,
+      "title": "Art Workshop",
+      "description": "Learn various painting techniques with professionals.",
+      "category": "Workshop",
+      "date": "05/07/2024",
+      "availableSeats": 30,
+      "price": 75
+    },
+    {
+      "id": 4,
+      "title": "Tech Expo 2024",
+      "description": "Explore the latest advancements in technology.",
+      "category": "Expo",
+      "date": "20/08/2024",
+      "availableSeats": 200,
+      "price": 20
+    },
+    {
+      "id": 5,
+      "title": "Yoga Retreat",
+      "description": "A day of relaxation and wellness activities.",
+      "category": "Retreat",
+      "date": "10/09/2024",
+      "availableSeats": 40,
+      "price": 100
+    },
+    {
+      "id": 6,
+      "title": "Advanced Cooking Class",
+      "description": "A hands-on cooking class with a top chef.",
+      "category": "Workshop",
+      "date": "15/10/2024",
+      "availableSeats": 20,
+      "price": 120
+    },
+    {
+      "id": 7,
+      "title": "Film Screening: Classic Movies",
+      "description": "An outdoor film screening of beloved classics.",
+      "category": "Screening",
+      "date": "05/11/2024",
+      "availableSeats": 60,
+      "price": 15
+    },
+    {
+      "id": 8,
+      "title": "Intensive Fitness Bootcamp",
+      "description": "A week-long fitness bootcamp to get in shape.",
+      "category": "Bootcamp",
+      "date": "10/12/2024",
+      "availableSeats": 30,
+      "price": 200
+    },
+    {
+      "id": 9,
+      "title": "Business Networking Event",
+      "description": "Meet industry leaders and professionals.",
+      "category": "Networking",
+      "date": "20/01/2025",
+      "availableSeats": 150,
+      "price": 30
+    },
+    {
+      "id": 10,
+      "title": "Ultimate Outdoor Adventure Experience",
+      "description": "An exciting outdoor adventure for thrill-seekers.",
+      "category": "Adventure",
+      "date": "20/12/2024",
+      "availableSeats": 40,
+      "price": 250
+    }
+  ]
+}
